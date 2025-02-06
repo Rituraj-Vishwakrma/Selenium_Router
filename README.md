@@ -1,2 +1,3 @@
-# Selenium_Router
+# Selenium_Router Using Python
 This is the web automation project for the Router using the Python Selenium
+Author- Rituraj Vishwakarma
